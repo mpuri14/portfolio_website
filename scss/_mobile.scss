@@ -53,7 +53,7 @@
   }
 
   .about-info {
-    grid-template-areas:
+    grid-template-areas: //this is for stacking all layers on on top of another
       "bioimage"
       "bio"
       "job1"
